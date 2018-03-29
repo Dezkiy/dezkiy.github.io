@@ -3,7 +3,6 @@
 import subprocess
 import argparse
 
-
 def ping_ip(ip_address, count):
     '''
     Ping IP address and return tuple:
@@ -21,8 +20,6 @@ def ping_ip(ip_address, count):
     else:
         return False, reply.stdout+reply.stderr
 
-
-
 parser = argparse.ArgumentParser(description='Ping script')
 
 parser.add_argument('-a', action="store", dest="ip")
@@ -32,5 +29,4 @@ args = parser.parse_args()
 print(args)
 
 rc, message = ping_ip(args.ip, args.count)
-# print(message)
 print(rc)
