@@ -4,14 +4,19 @@ www.linkedin.com/in/sam-orlov
 Data and automation engineer with 5 years in software development across geospatial and drone-data domains, and 6 years of network engineering experience in large-scale corporate networks and ISP environments, building automated, data-driven, and reliable systems.
 ## Skills
 **DevOps, CI/CD & Cloud**: Jenkins, GitHub Actions, GitLab CI, Ansible, Terraform, Artifactory, AWS, Azure, Git (Github, Gitlab, Bitbucket)
+
 **Containers & Virtualization**: Docker, Docker Compose, Docker Swarm, Kubernetes, Proxmox, LXC
+
 **Monitoring, Logging & Messaging**: Prometheus, Grafana, ELK Stack, Zabbix, Telegraf, MQTT
+
 **Programming & APIs**: Python, Groovy, SQL, C#, Bash, HCL, PromQL, JavaScript (Tailwind CSS), REST APIs
+
 **Networking**: TCP/IP, Routing, OSPF, VRRF, STP, VPN, SD-WAN, SNMP
 ## Career history
 
 ### **Automation Engineer** at RocketDNA
 Jun 2025 - Present
+
 [RocketDNA](https://www.rocketdna.com/) is a global technology company that leverages AI and autonomous drones to provide geospatial data, automation and aerial surveying solutions for enterprise customers in mining, agriculture and critical industries.  
   
 - Architect, deploy and maintain data collection and monitoring infrastructure (Prometheus & Grafana) for drone-in-a-box systems operating on active mining sites:
@@ -31,7 +36,8 @@ Jun 2025 - Present
 - Automate internal operational and data-handling processes using **scripting and Microsoft Power Automate**, reducing manual workload and improving system reliability.
 
 ### **DevOps Engineer** at 2GIS
-May 2021 - Sep 2023  
+May 2021 - Sep 2023 (2 years 5 months)
+
 [2GIS](https://dev.2gis.ru/en/company) is an international geospatial company that develops detailed digital city maps, navigation services, and local business search platforms.
 
 **Responsibilities**
@@ -46,6 +52,7 @@ May 2021 - Sep 2023
 
 ### **Network Engineer** at LLC Gazprom transgaz Tomsk
 Apr 2017 - May 2021 (4 years 2 months)
+
 [LLC Gazprom transgaz Tomsk](https://institute.gazprom.ru/en/) operates and maintains extensive gas transportation systems across Siberia and the Russian Far East, ensuring reliable delivery of natural gas through thousands of kilometres of main pipelines.
 
 **Responsibilities**
@@ -57,6 +64,7 @@ Apr 2017 - May 2021 (4 years 2 months)
 
 ### **Design Engineer** at Elcomplus LLC
 Feb 2014 - Apr 2017 (3 years 3 months)
+
 [Elcomplus](https://www.smartptt.com/) is an international IT company that develops and integrates industrial communication systems, automation solutions and dispatch software to improve operational communications and efficiency for enterprise clients worldwide.
 
 **Responsibilities**
@@ -65,6 +73,7 @@ Feb 2014 - Apr 2017 (3 years 3 months)
 
 ### **Network Engineer** at JSC “ER-Telecom Holding” 
 Mar 2012 - Feb 2014 (2 years)
+
 [ER-Telecom Holding JSC](https://ertelecom.ru/en) provides broadband Internet, telephony, digital TV, Wi-Fi access, VPN and LoRaWAN services, as well as video surveillance solutions.
 
 **Responsibilities**
@@ -78,6 +87,7 @@ Mar 2012 - Feb 2014 (2 years)
 
 ### **System Administrator** at Television and Radio Broadcasting Company "Tomsk" (GTRK)
 Sep 2010 - Mar 2012 (1 year 7 months)
+
 [GTRK](https://www.tvtomsk.ru/) A regional television and radio broadcasting company providing audiovisual content and media in Tomsk.
 
 **Responsibility**
