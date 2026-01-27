@@ -1,5 +1,5 @@
 # Sam Orlov 
-www.linkedin.com/in/sam-orlov
+[www.linkedin.com/in/sam-orlov](www.linkedin.com/in/sam-orlov)
 # Summary
 Sam has a diverse background in the Information Technologies field, with experience spanning IT infrastructure maintenance to designing communication systems. He specializes in DevOps and network engineering, including CI/CD pipelines (Jenkins, GitLab CI/CD, GitHub Actions), Infrastructure as Code (Terraform, Ansible), and containerized environments (Docker Compose, Kubernetes). He builds and maintains monitoring and logging systems (Prometheus, Grafana, ELK, Zabbix) and manages AWS services (EC2, Lambda, S3).
 
@@ -52,7 +52,8 @@ Jun 2025 - Present
 
 ### Project
 #### *MetricMonkeys* Monitoring Platform (Prometheus & Grafana)
-https://github.com/Dezkiy/MetricMonkeys
+[https://github.com/Dezkiy/MetricMonkeys](https://github.com/Dezkiy/MetricMonkeys)
+
 Architect, deploy and maintain data collection and monitoring infrastructure (**Prometheus** & **Grafana**) for **drone-in-a-box** systems operating on active mining sites:
 - Organize, collect, process, and store device, operational, and business metrics from multiple data sources including DJI FlightHub2 metrics and network equipment.
 - Transform raw, unstructured telemetry (**MQTT**) and **SNMP** data into structured Prometheus metrics suitable for analysis and visualization
@@ -85,6 +86,7 @@ May 2021 - Sep 2023 (2 years 5 months)
   **Designed and developed an internal shared library (Java/Groovy)** for merge validation, checking the feasibility of merging pull requests by querying **GitLab and Bitbucket APIs** for branches and active pull requests, with automated notifications sent to **Slack** and **Jira** in the context of related tickets.
 - #### Deployed and integrated Artifactory
   Deployed and integrated Artifactory into the CI ecosystem, standardising artifact storage and delivery
+
 ## **Network Engineer** at LLC Gazprom transgaz Tomsk
 Apr 2017 - May 2021 (4 years 2 months)
 [**LLC Gazprom transgaz Tomsk**](https://institute.gazprom.ru/en/) operates and maintains extensive gas transportation systems across Siberia and the Russian Far East, ensuring reliable delivery of natural gas through thousands of kilometres of main pipelines.
@@ -104,6 +106,7 @@ Apr 2017 - May 2021 (4 years 2 months)
   - Configured and installed network equipment in remote sections of the gas pipeline.
 - #### Designed and implemented an Ansible 
   Designed and implemented an Ansible-based network automation system to centrally administer and orchestrate network devices, significantly improving troubleshooting speed, configuration consistency, and operational efficiency
+
 ## **Design Engineer** at Elcomplus LLC
 Feb 2014 - Apr 2017 (3 years 3 months)
 [Elcomplus](https://www.smartptt.com/) is an international IT company that develops and integrates industrial communication systems, automation solutions and dispatch software to improve operational communications and efficiency for enterprise clients worldwide.
@@ -112,6 +115,7 @@ Feb 2014 - Apr 2017 (3 years 3 months)
 - Planned and developed network layouts and infrastructures, ensuring compliance with client requirements and industry standards
 - Produced detailed network diagrams, layouts, and technical drawings in **AutoCAD** to support project accuracy and implementation
 - Leveraged the Structured Cabling System (SCS) plugin to streamline designs
+
 ## **Network Engineer** at JSC “ER-Telecom Holding” 
 Mar 2012 - Feb 2014 (2 years)
 [ER-Telecom Holding JSC](https://ertelecom.ru/en) provides broadband Internet, telephony, digital TV, Wi-Fi access, VPN and LoRaWAN services, as well as video surveillance solutions. 
@@ -132,6 +136,7 @@ Mar 2012 - Feb 2014 (2 years)
 ### Project
 #### ISP Network Deployment
 Participated in the construction and deployment of the internet service provider (ISP) network for the city of Tomsk (population ~600,000), including installation, configuration, and integration of network equipment to ensure reliable connectivity and service delivery across the urban area.
+
 ## **System Administrator** at Television and Radio Broadcasting Company "Tomsk"
 Sep 2010 - Mar 2012 (1 year 7 months)
 [GTRK](https://www.tvtomsk.ru/) A regional television and radio broadcasting company providing audiovisual content and media in Tomsk.
@@ -143,7 +148,8 @@ Sep 2010 - Mar 2012 (1 year 7 months)
 • Provide technical support to end users, troubleshooting hardware, software, and network issues
 ### Project
 #### Dalet System Deployment (News Production & Distribution system)
-  Deployment of the [Dalet News Production & Distribution system](https://www.dalet.com/solutions/news-production/), involving requirements gathering, alignment with existing IT environments, and integration of broadcast infrastructure. Resolved issues related to partially deprecated legacy systems.
+  Deployment of the [Dalet News Production & Distribution system](https://www.dalet.com/solutions/news-production/), involving requirements gathering, alignment with existing IT environments, and integration of broadcast infrastructure. Resolved issues related to partially deprecated legacy systems
+
 # Education
 ## Tomsk State University of Control Systems and Radioelectronics
 Master of Engineering (Radio Engineering)
@@ -156,15 +162,17 @@ Certificate IV, Information Technology (Programming)
 Jul 2024 - Dec 2025
 ### TAFE Projects
 #### WareLog Android App (.NET MAUI)
-https://github.com/Dezkiy/WareLog
+[https://github.com/Dezkiy/WareLog](https://github.com/Dezkiy/WareLog)
+
 The application is a **warehouse tracking system** built with **.NET MAUI**. The client collects detailed goods information, including customer, receiver, and driver details, as well as images and signatures, and sends it to a centralized **PostgreSQL** database. The app also processes scanned QR-code items, matches them against a predefined database, and provides endpoints to handle scanned items. It generates output files for both matched and unmatched items using the **WareLog API**.
 
 #### WareLog-API (fastAPI) 
-https://github.com/Dezkiy/WareLog-API
+[https://github.com/Dezkiy/WareLog-API](https://github.com/Dezkiy/WareLog-API)
+
 WareLog API is a **FastAPI**-based application designed to process scanned QR code items and match them against a predefined database. It provides endpoints to handle scanned items, identify matches, and generate output files for both matched and unmatched items.
 #### Web project (Tailwind CSS)
 
-https://dezkiy.github.io/tafe_web_project/
+[https://dezkiy.github.io/tafe_web_project](https://dezkiy.github.io/tafe_web_project/)
 Project using **JavaScript** and **Tailwind CSS** with a **mobile-first design**, integrating **API Ninjas** to fetch and display external data, implement dynamic content rendering, and enhance user interaction and responsiveness across devices.
 
 # Licenses & certifications
