@@ -171,8 +171,8 @@ The application is a **warehouse tracking system** built with **.NET MAUI**. The
 
 WareLog API is a **FastAPI**-based application designed to process scanned QR code items and match them against a predefined database. It provides endpoints to handle scanned items, identify matches, and generate output files for both matched and unmatched items.
 #### Web project (Tailwind CSS)
-
 [https://dezkiy.github.io/tafe_web_project](https://dezkiy.github.io/tafe_web_project/)
+
 Project using **JavaScript** and **Tailwind CSS** with a **mobile-first design**, integrating **API Ninjas** to fetch and display external data, implement dynamic content rendering, and enhance user interaction and responsiveness across devices.
 
 # Licenses & certifications
