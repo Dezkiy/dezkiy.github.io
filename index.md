@@ -226,7 +226,7 @@ Jan 2017 - Current
 
 [https://www.coursera.org/account/accomplishments/verify/K2KBT39K9KC7](https://www.coursera.org/account/accomplishments/verify/K2KBT39K9KC7)
 # Additional
-- Available **upon request**
+- References available **upon request**
 ## Interests/Hobbies
 - Internet of Things (IoT), Home Assistant, 
 - Surfing, Snowboarding, Playing guitar
